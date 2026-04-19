@@ -1,3 +1,7 @@
+# Initializes a Walmart sales database, defines a structured sales table, and displays all stored records.
+
+
+
 CREATE DATABASE	IF NOT EXISTS walmartsales;
 
 CREATE TABLE IF NOT EXISTS sales(
