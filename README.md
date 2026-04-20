@@ -1,4 +1,4 @@
-##🛒 Walmart Sales Data Analysis
+## 🛒 Walmart Sales Data Analysis
 
 📌 Project Overview
 This project involves a comprehensive exploratory data analysis (EDA) of Walmart's sales data using SQL. The goal is to extract meaningful insights from the dataset to understand sales trends, product performance, and customer behavior across different branches and cities.
