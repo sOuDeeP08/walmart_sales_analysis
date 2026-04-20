@@ -59,15 +59,27 @@ Branch: The specific branch (A, B, C).
 
 City: Location of the branch.
 
+Customer type: Type of customer (Member or Normal)
+
+Gender: Gender of the customer
+
 Product Line: Category of the product sold.
 
+Unit Price: Price of each unit of the product.
+
 Quantity: Number of items sold.
+
+Tax(5%): 5% tax fee on the purchase.
 
 Total: Total price including tax.
 
 Date & Time: When the transaction occurred.
 
 COGS: Cost of Goods Sold.
+
+Gross margin percentage: Gross margin percentage.
+
+Gross income: Gross income generated.
 
 Rating: Customer satisfaction score.
 
