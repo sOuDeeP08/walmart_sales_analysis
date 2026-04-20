@@ -1,9 +1,9 @@
-## 🛒 Walmart Sales Data Analysis
+# 🛒 Walmart Sales Data Analysis
 
-# 📌 Project Overview
+## 📌 Project Overview
 This project involves a comprehensive exploratory data analysis (EDA) of Walmart's sales data using SQL. The goal is to extract meaningful insights from the dataset to understand sales trends, product performance, and customer behavior across different branches and cities.
 
-# 🎯 Purpose of the Code:
+## 🎯 Purpose of the Code:
 
 Identify Sales Trends: Determine revenue growth and seasonal patterns (monthly analysis).
 
@@ -13,7 +13,7 @@ Customer Insights: Understand payment preferences and gender-based shopping habi
 
 Operational Efficiency: Compare branch performances against average metrics to identify high-performing locations.
 
-# ❓ Business Questions Answered
+## ❓ Business Questions Answered
 The SQL script is structured to solve the following business problems:
 
 **Generic Analysis**
@@ -49,7 +49,7 @@ What is the average rating for each product line?
 Sales & Branch Analysis
 Which branches sold more products than the average quantity sold across all branches?
 
-📊 Dataset Description
+## 📊 Dataset Description
 The dataset contains sales transactions from three different branches of Walmart, located in Yangon, Naypyitaw, and Mandalay.
 Key columns include:
 
@@ -71,7 +71,7 @@ COGS: Cost of Goods Sold.
 
 Rating: Customer satisfaction score.
 
-🛠️ Technical Skills Demonstrated
+## 🛠️ Technical Skills Demonstrated
 Data Aggregation: SUM(), AVG(), COUNT(), ROUND().
 
 Grouping & Filtering: GROUP BY, HAVING, ORDER BY.
