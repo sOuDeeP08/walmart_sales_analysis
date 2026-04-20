@@ -1,10 +1,9 @@
 ## 🛒 Walmart Sales Data Analysis
 
-📌 Project Overview
+# 📌 Project Overview
 This project involves a comprehensive exploratory data analysis (EDA) of Walmart's sales data using SQL. The goal is to extract meaningful insights from the dataset to understand sales trends, product performance, and customer behavior across different branches and cities.
 
-🎯 Purpose of the Code
-The primary purpose of this analysis is to:
+# 🎯 Purpose of the Code:
 
 Identify Sales Trends: Determine revenue growth and seasonal patterns (monthly analysis).
 
@@ -14,15 +13,17 @@ Customer Insights: Understand payment preferences and gender-based shopping habi
 
 Operational Efficiency: Compare branch performances against average metrics to identify high-performing locations.
 
-❓ Business Questions Answered
+# ❓ Business Questions Answered
 The SQL script is structured to solve the following business problems:
 
-Generic Analysis
+**Generic Analysis**
+
 How many unique cities are present in the dataset?
 
 Which branches are located in which cities?
 
-Product Analysis
+**Product Analysis**
+
 How many unique product lines does the data have?
 
 What is the most common payment method used by customers?
